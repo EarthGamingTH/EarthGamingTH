@@ -14,18 +14,8 @@
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
-
-## 🛠 Skills
-
-### Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
 
 ### Frameworks & Libraries
@@ -33,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
 </p>
 
 ### Tools & Platforms
@@ -54,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="CentOS Linux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="MacOS" width="40" height="40"/>
 </p>
 
@@ -69,11 +60,10 @@
 
 ## 🌟 Certificate
 <p>
-<img src="certificate.jpg" alt="Certificate" width="300" height="200"/>
-<img src="certificate2.jpg" alt="Certificate" width="300" height="200"/>
+  <img src="certificate.jpg" alt="Certificate" width="300" height="200"/>
+  <img src="certificate2.jpg" alt="Certificate" width="300" height="200"/>
 </p>
 
----
 ---
 
 ## 🌟 About Me
@@ -91,9 +81,9 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Programming Languages**: Python, JavaScript, HTML5, CSS3, PHP
-- **Frontend**: React, Vue.js, Bootstrap
-- **Backend**: Node.js, Express.js, PHP
+- **Programming Languages**: Python, JavaScript, HTML5, CSS3, PHP, Java
+- **Frontend**: React, Vue.js, Bootstrap, Next.js
+- **Backend**: Node.js, Express.js, PHP, Java (RESTful API)
 - **Databases**: MySQL, Oracle
 - **Tools**: Docker, Git, Linux
 - **Platforms**: GitHub, GitLab, Docker Hub
